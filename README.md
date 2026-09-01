@@ -1,5 +1,5 @@
 # Capstone: Smart Temperature Monitor
-
+![alt text](<Screenshot 2026-09-01 151223-1.png>)
 A simulated temperature-sensor kernel driver + a C++ userspace app that
 reads it and runs a state machine (NORMAL -> WARNING -> CRITICAL).
 
